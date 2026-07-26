@@ -21,5 +21,18 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/shravanipaygude/Leetcode/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
+## String
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
