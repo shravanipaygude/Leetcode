@@ -27,10 +27,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
+| [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Simulation
 |  |
 | ------- |
