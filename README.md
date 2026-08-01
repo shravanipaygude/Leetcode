@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/shravanipaygude/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -14,6 +15,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
@@ -44,5 +46,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/shravanipaygude/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
