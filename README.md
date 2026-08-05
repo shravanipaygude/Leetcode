@@ -6,6 +6,7 @@
 | ------- |
 | [0078-subsets](https://github.com/shravanipaygude/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 ## Backtracking
 |  |
@@ -39,6 +41,7 @@
 | [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shravanipaygude/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 ## Simulation
 |  |
 | ------- |
@@ -48,4 +51,8 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0202-happy-number](https://github.com/shravanipaygude/Leetcode/tree/master/0202-happy-number) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
