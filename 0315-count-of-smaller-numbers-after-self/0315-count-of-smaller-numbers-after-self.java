@@ -8,7 +8,6 @@ class Solution {
         int n = nums.length;
         count = new int[n];
         
-        // Store pairs: arr[i][0] = value, arr[i][1] = original index
         int[][] arr = new int[n][2];
         for (int i = 0; i < n; i++) {
             arr[i][0] = nums[i];
