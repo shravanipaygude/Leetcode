@@ -9,18 +9,21 @@
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shravanipaygude/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shravanipaygude/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravanipaygude/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0202-happy-number](https://github.com/shravanipaygude/Leetcode/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shravanipaygude/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 | [1331-rank-transform-of-an-array](https://github.com/shravanipaygude/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shravanipaygude/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
 | ------- |
