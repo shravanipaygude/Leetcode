@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shravanipaygude/Leetcode/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/shravanipaygude/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/shravanipaygude/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
@@ -63,6 +64,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shravanipaygude/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 ## Binary Search
 |  |
@@ -96,4 +98,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shravanipaygude/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/shravanipaygude/Leetcode/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
