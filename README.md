@@ -40,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/shravanipaygude/Leetcode/tree/master/0002-add-two-numbers) |
 | [0067-add-binary](https://github.com/shravanipaygude/Leetcode/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/shravanipaygude/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -102,4 +103,12 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/shravanipaygude/Leetcode/tree/master/0055-jump-game) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shravanipaygude/Leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/shravanipaygude/Leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
