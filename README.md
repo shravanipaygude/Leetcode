@@ -53,6 +53,7 @@
 | [0168-excel-sheet-column-title](https://github.com/shravanipaygude/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
+| [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -111,4 +112,12 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shravanipaygude/Leetcode/tree/master/0002-add-two-numbers) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
