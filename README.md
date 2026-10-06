@@ -54,6 +54,7 @@
 | [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | ------- |
 | [0055-jump-game](https://github.com/shravanipaygude/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Binary Search
 |  |
 | ------- |
@@ -116,8 +118,10 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
