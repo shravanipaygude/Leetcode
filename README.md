@@ -32,6 +32,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/shravanipaygude/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0078-subsets](https://github.com/shravanipaygude/Leetcode/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0168-excel-sheet-column-title](https://github.com/shravanipaygude/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/shravanipaygude/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0179-largest-number](https://github.com/shravanipaygude/Leetcode/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Simulation
@@ -124,4 +126,8 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
