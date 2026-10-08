@@ -57,6 +57,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Simulation
 |  |
 | ------- |
@@ -121,11 +122,13 @@
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shravanipaygude/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/shravanipaygude/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Breadth-First Search
 |  |
 | ------- |
